@@ -1,0 +1,38 @@
+
+h1 {
+    text-align: center;
+    color:#1c65ad;
+}
+
+body {
+    margin: 20px 10%;
+    
+}
+body {
+    background-color: #13a782;
+    
+}
+pre {
+    background-color: #e71616;
+    border:1px dotted #1916b9;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
+h2 {
+    text-align: center;
+    color:#1c65ad;
+}
+
+body {
+    margin: 20px 10%;
+}
+
+pre {
+    background-color: #c9f30b;
+    border:1px dotted #2b944e;
+    padding: 20px;
+    border-radius: 20px;
+}
