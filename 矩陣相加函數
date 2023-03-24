@@ -1,0 +1,16 @@
+function madd(a,b)
+{
+    let r =[]
+    for (let i=0; i<a.length; i++)
+    {
+        r[i] = []
+        for (let j=0; j<a[0].length; j++)
+        {
+            r[i][j] = a[i][j]+ b[i][j]
+        }
+        
+    }
+    return r
+}
+let v1 = [[1,2], [3,4]], v2 = [[1,1],[4,5]]
+console.log("vadd(v1,v2=", madd(v1,v2))
