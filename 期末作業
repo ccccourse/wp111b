@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>我的簡單網站</title>
+</head>
+<body>
+  <header>
+    <h1>歡迎來到我的簡單網站</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#home">首頁</a></li>
+      <li><a href="#about">關於</a></li>
+      <li><a href="#contact">聯絡方式</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <section id="home">
+      <h2>首頁</h2>
+      <p>歡迎來到我的簡單網站！這是首頁區塊。</p>
+    </section>
+    
+    <section id="about">
+      <h2>關於</h2>
+      <p>這是關於區塊。在這裡，你可以介紹自己或你的專案。</p>
+    </section>
+    
+    <section id="contact">
+      <h2>聯絡方式</h2>
+      <p>如果你想聯絡我，請使用以下的聯絡資訊。</p>
+      <p>電子郵件：example@example.com</p>
+      <p>電話號碼：123-456-7890</p>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 我的簡單網站。保留所有權利。</p>
+  </footer>
+</body>
+</html>
